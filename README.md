@@ -17,6 +17,7 @@
   * DMX Shield and library by TinkerKit (https://github.com/TinkerKit/DmxMaster)
 
 Primary Contributors: Emily Lam, Johnny Glynn, Yuting Zhang
+
 Multimedia Communications Lab, led by Professor Thomas D.C. Little, Boston University
 
 This work is supported by the NSF under cooperative agreement EEC-0812056 and by New York State under NYSTAR contract C090145. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
