@@ -18,6 +18,6 @@
 
 Primary Contributors: Emily Lam, Johnny Glynn, Yuting Zhang
 
-[Multimedia Communications Lab]((http://github.com)), led by Professor Thomas D.C. Little, Boston University
+[Multimedia Communications Lab](http://hulk.bu.edu), led by Professor Thomas D.C. Little, Boston University
 
 This work is supported by the NSF under cooperative agreement EEC-0812056 and by New York State under NYSTAR contract C090145. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
