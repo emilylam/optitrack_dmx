@@ -6,7 +6,7 @@
   * TCP client/server networking
   * Has a bunch of other unnecessary code for integrating a user interface, multithreaded functionality, other device control (namely TiLED), broadcasting commands, and room status.
 
-2. DMX (Beam controller, run on DMX)
+2. DMX (Beam controller, run on Arduino)
   * Acts as a TCP server and waits for commands from opt_DMX
   * Translates command into DMX command to sends to beam
 
